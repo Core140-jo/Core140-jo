@@ -66,6 +66,7 @@ A travel management website developed as part of college project work.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Core140-jo&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 # 🌐 Connect With Me
