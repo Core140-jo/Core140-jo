@@ -21,8 +21,10 @@
 🌌 Anime fan with special respect for **Attack on Titan**
 
 
+<!-- Minimal Animated AOT Quote -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1200&color=AAAAAA&center=true&vCenter=true&width=600&lines=Joshua;AI+%26+ML+Trainee;Attack+on+Titan+Fan+⚔;Python+%7C+Java+%7C+PHP" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=⚔+If+you+don't+fight,+you+can't+win.;AI+%26+ML+Trainee;Building+My+Future+One+Step+At+A+Time+🚀" />
 </p>
 
 ---
