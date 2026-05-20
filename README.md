@@ -64,7 +64,7 @@ A travel management website developed as part of college project work.
 # 🌍 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Core140-jo&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
