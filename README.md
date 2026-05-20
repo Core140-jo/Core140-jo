@@ -18,11 +18,10 @@
 
 # ⚔ About Me
 
-🛡 Final Year College Student  
+🛡 Bachelor of Computer Science Graduate
 🤖 AI & ML with Data Science Trainee at **SMEClabs**  
 💻 Learning technologies one battle at a time  
-⚡ Passionate about coding, AI, and futuristic tech  
-🌌 Anime fan with special respect for **Attack on Titan**
+⚡ Passionate about mobile video editing,coding, AI, and futuristic tech.
 
 
 <!-- Minimal Animated AOT Quote -->
