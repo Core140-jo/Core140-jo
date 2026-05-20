@@ -55,9 +55,8 @@ A travel management website developed as part of college project work.
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Core140-jo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Core140-jo&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
