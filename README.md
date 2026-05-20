@@ -90,7 +90,7 @@ A travel management website developed as part of college project work.
 # ⚔ Attack on Titan Vibes
 
 <p align="center">
-  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/attack-on-titan-mikasa-smile.gif" width="700"/>
+  <img src="https://media1.tenor.com/m/1C1DWbt0-mwAAAAC/attack-on-titan-mikasa.gif" width="700"/>
 </p>
 
 ---
