@@ -90,11 +90,13 @@ A travel management website developed as part of college project work.
 
 ---
 
-# 🕊 Favorite Characters
+# ⚔ Favorite Characters
 
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
+<p align="center">
+  ⚔ Eren Yeager &nbsp;&nbsp;|&nbsp;&nbsp;
+  🧣 Mikasa Ackerman &nbsp;&nbsp;|&nbsp;&nbsp;
+  🔥 Levi Ackerman
+</p>
 
 ---
 
