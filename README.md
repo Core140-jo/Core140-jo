@@ -6,10 +6,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&pause=1000&color=B22222&center=true&vCenter=true&width=700&lines=AI+%26+ML+Trainee;Data+Science+Learner;Humanity+Will+Keep+Moving+Forward;Code+Like+A+Scout+🔥" />
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/17/8d/7d/178d7d8b4b56e5d4a0d5f5bcd4d3f2d7.gif" width="700"/>
-</p>
 
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" 
+    width="700" 
+    alt="Animated Banner"
+  />
+</p>
 ---
 
 # ⚔ About Me
