@@ -82,7 +82,7 @@ A travel management website developed as part of college project work.
 # 👀 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Humans+Visited&color=8B0000&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=joshua-george&label=Humans+Visited&color=8B0000&style=for-the-badge"/>
 </p>
 
 ---
