@@ -9,9 +9,9 @@
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" 
-    width="700" 
-    alt="Animated Banner"
+    src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
+    width="700"
+    alt="Coding Animation"
   />
 </p>
 ---
