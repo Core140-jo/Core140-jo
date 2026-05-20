@@ -20,7 +20,15 @@
 ⚡ Passionate about coding, AI, and futuristic tech  
 🌌 Anime fan with special respect for **Attack on Titan**
 
-> *"If you win, you live. If you lose, you die. If you don't fight, you can't win."* — :contentReference[oaicite:0]{index=0}
+
+md id="7ek1u8"
+<h3 align="center">
+⚔ "If you don't fight, you can't win." ⚔
+</h3>
+
+<p align="center">
+— Eren Yeager
+</p>
 
 ---
 
