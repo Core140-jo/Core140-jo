@@ -24,7 +24,7 @@
 <!-- Minimal Animated AOT Quote -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=⚔+If+you+don't+fight,+you+can't+win.;AI+%26+ML+Trainee;Building+My+Future+One+Step+At+A+Time+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=⚔+If+you+don't+fight,+you+can't+win.+⚔" />
 </p>
 
 ---
