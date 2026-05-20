@@ -54,7 +54,8 @@ A travel management website developed as part of college project work.
 # 📊 Scout Regiment Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Core140-jo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
   
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
@@ -64,7 +65,7 @@ A travel management website developed as part of college project work.
 # 🌍 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Core140-jo&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Core140-jo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
